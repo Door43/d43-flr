@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[flr:home|Door43 (flr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-flr|d43-flr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-flr/archive/master.zip|d43-flr.zip]]
+
+**Recent Changes**
+{{changes>ns = flr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/flr|Ethnologue data]]
+
